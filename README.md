@@ -1,5 +1,5 @@
-# gettingStartedWithColab
-A Live Project made for Manning.
+# Getting Started with Google Colabd Using Pytorch
+A GitHub repo for [the Manning liveProject.](https://www.manning.com/liveproject/getting-started-with-Google-Colab-using-PyTorch)
 
 ## Notes
 + You don't have to install the requirements,
